@@ -44,6 +44,7 @@ public class EcuacionSegundoGrado {
 				System.out.println("x2 = " + (-b - Math.sqrt(discriminante))/(2 * a));
 			}//
 		}//
+		sc.close();
 	}
 
 }
